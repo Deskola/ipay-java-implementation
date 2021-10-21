@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JavaLibImplem</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email</string>
+    <string name="amount">Amount</string>
+    <string name="checkout_button">Checkout</string>
+</resources>
