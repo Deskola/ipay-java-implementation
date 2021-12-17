@@ -26,7 +26,7 @@ public class CheckoutActivity extends AppCompatActivity {
         String live = "1";
         String oid = "112";
         String inv = "112";
-        String vid = "kuneafrica";
+        String vid = "demo";
         String curr = "KES";
         String p1 = "112";
         String p2 = "112";
